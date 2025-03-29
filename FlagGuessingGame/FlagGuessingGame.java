@@ -90,6 +90,7 @@ public class FlagGuessingGame extends JFrame {
                     "FlagImages" + File.separator + "India.png",
                     "FlagImages" + File.separator + "China.png",
                     "FlagImages" + File.separator + "USA.png",};
+
             case 2 ->
                 new String[]{
                     "FlagImages" + File.separator + "Vietnam.png",
@@ -100,6 +101,7 @@ public class FlagGuessingGame extends JFrame {
                     "FlagImages" + File.separator + "Venezuela.png",
                     "FlagImages" + File.separator + "Portugal.png",
                     "FlagImages" + File.separator + "United Kingdom.png",};
+                    
             case 3 ->
                 new String[]{
                     "FlagImages" + File.separator + "Uganda.png",
